@@ -18,6 +18,8 @@ Smoothness condition?
 
 Channels?
 
+Tutorial for data access 
+
 # Current status
 
 Traditional method performance
@@ -25,3 +27,6 @@ Traditional method performance
 Any benchmark?
 
 # Potential method
+
+failure mode
+
