@@ -14,6 +14,10 @@ Amount of data
 
 Stochastic?
 
+Smoothness condition?
+
+Channels?
+
 # Current status
 
 Traditional method performance
