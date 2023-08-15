@@ -53,16 +53,29 @@ In principle yes, but in principle no. But it shouldn't matter.
 ## Provide a short example to access and construct the test problem.
 
 
-
 # Current status
 
 There is no APOGEE to GALAH leg, so anything that match GALAh, hence can be used to generate label is great.
 
 # Potential method
 
-Suggest methods and why they might help.
+## Suggest methods and why they might help.
 
-Brief list of tasks for building the network for beating the benchmark/production
+Proposal 1
+Try a convnet for projecting both spectra to an embedding space.
+Diffusion model for conditional generation.
 
-failure mode
+Proposal 2
+Convnet decode from one to another?
 
+## Brief list of tasks for building the network for beating the benchmark/production
+
+1. Start with zoom-in on a couple of lines. (Don't need to deal with long range correlation)
+   1. Cut off part of the GALAH target
+   2. Maybe downsample the APOGEE.
+2. Good to check null case as well.
+3. Generalize to large part of spectra.
+
+## failure mode
+
+??
