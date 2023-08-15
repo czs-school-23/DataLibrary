@@ -1,32 +1,36 @@
 # Question
 
-Scientific motivation
+What is your Scientific motivation?
 
-Limitation
+What are some of the limitations you face in this problem? For example, is it too slow right now? Is it very tedious to iterate through different configuration?
 
-Criterion: Certain throughput/accuracy bound
+Is there some criterion a solution has to fulfill? For example, it has to be able to process n examples (throughput), or it has to be accurate down to some precision limit.
+
+Is uncertainty important?
+
+Is there some smoothness condition you think would matter?
 
 # Dataset
 
-IO dimension
+What's the dimension of your input and output? Is it constant or variable?
 
-Amount of data
+How much data do you have for training? Hundreds of GB? MB? or no data at all?
 
-Stochastic?
+Do you expect the underlying process to be stochastic?
 
-Smoothness condition?
+How many data channels you have?
 
-Channels?
-
-Tutorial for data access 
+Provide a short example to access and construct the test problem.
 
 # Current status
 
-Traditional method performance
-
-Any benchmark?
+Current method benchmark.
 
 # Potential method
+
+Suggest methods and why they might help.
+
+Brief list of tasks for building the network for beating the benchmark/production
 
 failure mode
 
