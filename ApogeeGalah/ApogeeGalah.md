@@ -7,7 +7,7 @@ Can we generate GALAH spectra using APOGEE?
 ## What is your Scientific motivation?
 
 There are APOGEE (near IR) spectra and GALAH (optical). APORGEE does not give heavy element abundance because of weak lines and unknown lines, but signal to noise and labels in other elements very good.
-GALAH is better for heavy element because strong numerous heavy element lines, however it has lower signal-to-noise ratio, and label qualtiy is limited because of human resource reason.
+GALAH is better for heavy element because strong numerous heavy element lines, however it has lower signal-to-noise ratio, and label qualtiy is limited because of human resource reason.PI.jl/stable/configuration/
 
 TL;dr GALAH label is not usable and APOGEE label is not complete. It would be great if we can use both APOGEE and GALAH to produce better label.
 
