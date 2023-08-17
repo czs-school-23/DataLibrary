@@ -40,6 +40,8 @@ Active region data is also available. Preprocessed data is deprojected and clean
 
 Variable size images. Larger image is ~2000x 700. Smaller image is about 400x400.
 
+Cadence is 12 minutes.
+
 Output is the same dimension as the input.
 
 ## Do you expect the underlying process to be stochastic?
